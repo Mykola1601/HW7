@@ -1,7 +1,11 @@
 from setuptools import setup
 
 setup(name='clean_folder',
+<<<<<<< HEAD
       version='0.1.15',
+=======
+      version='0.1.4',
+>>>>>>> 88b929f73802dc1f6abfd321e3c95c0021b21ff9
       description='useful code',
       url='https://github.com/Mykola1601/HW7/tree/main/clean_folder',
       author='MIKOLA',
